@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+<property>
+    <name>dfs.namenode.fs-limits.min-block-size</name>
+    <value>64</value>
+</property>
+</configuration>
